@@ -1,0 +1,39 @@
+name: null
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python
+  - pip
+  - ipykernel
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - sympy
+  - matplotlib
+  - seaborn
+  - plotly
+  - folium
+  - openpyxl
+  - xlrd
+  - selenium
+  - wordcloud
+  - feature_engine
+  - mlxtend
+  - kaggle
+  - beautifulsoup4
+  - pandas-profiling
+  - django
+  - flask
+  - imbalanced-learn
+  - xgboost
+  - tensorflow-cpu
+  - tensorflow-hub
+  - pytorch-cpu
+  - keras-tuner
+  - pydot
+
+  - pip:
